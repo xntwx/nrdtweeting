@@ -2,7 +2,7 @@
 #
 # github.com/xntwx
 #
-# twitter activity using python with library from sixohsix [http://mike.verdone.ca/twitter/]
+# twitter activity using python with library from Mike Verdone [sixohsix] [http://mike.verdone.ca/twitter/]
 #
 
 import sys
