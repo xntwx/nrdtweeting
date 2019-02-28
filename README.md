@@ -1,4 +1,4 @@
-https://github.styleci.io/repos/18088635/shield?branch=master
+[![StyleCI](https://github.styleci.io/repos/18088635/shield?branch=master)](https://github.styleci.io/repos/18088635)
 
 nrdtweeting
 ===========
